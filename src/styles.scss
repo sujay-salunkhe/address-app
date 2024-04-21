@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background-image: url('https://images6.alphacoders.com/133/1338694.png');
+    background-size: cover;
+}
